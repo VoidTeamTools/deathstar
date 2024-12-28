@@ -1,1 +1,3 @@
 # deathstar
+
+need libraries: pyfiglet
