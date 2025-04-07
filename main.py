@@ -11,7 +11,7 @@ def clear():
 def intro(figlet):
     clear()
     print(figlet.renderText('deathstar'))
-    print("[Github]: https://github.com/floxs2/deathstar")
+    print("[Github]: https://github.com/VoidTeamTools/deathstar/")
     time.sleep(0.3)
 
 
